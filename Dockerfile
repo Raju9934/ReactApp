@@ -2,7 +2,7 @@
 FROM node:14
 
 
-WORKDIR \Users\rajuk\Desktop\ReactApp  
+WORKDIR C:\Users\rajuk\Desktop\ReactApp\myapp
 
 
 COPY package*.json ./
