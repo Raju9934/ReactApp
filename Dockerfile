@@ -2,7 +2,7 @@
 FROM node:14
 
 
-WORKDIR /usr/src/app
+WORKDIR \Users\rajuk\Desktop\ReactApp  
 
 
 COPY package*.json ./
